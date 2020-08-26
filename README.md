@@ -2,7 +2,7 @@
 
 Pytorch implementation of BMVC 2019 paper [Dual Graph Convolutional Network for Semantic Segmentation](https://arxiv.org/abs/1909.06121).
 
-We have integrated DGCNet into the code base with [GALD-Net](https://github.com/lxtGH/GALD-Net).
+We have integrated DGCNet into the code base of [GALD-DGCNet](https://github.com/lxtGH/GALD-DGCNet).
 
 
 
