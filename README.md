@@ -10,13 +10,6 @@ We have integrated DGCNet into the code base with [GALD-Net](https://github.com/
 # Bibtex 
 Please refer to our paper for more details. 
 If you find the code is usefull, please cite our paper.
-```
-@inproceedings{xiangtl_gald
-title={Global Aggregation then Local Distribution in Fully Convolutional Networks},
-author={Li, Xiangtai and Zhang, Li and You, Ansheng and Yang, Maoke and Yang, Kuiyuan and Tong, Yunhai},
-booktitle={BMVC2019},
-}
-```
 
 ```
 @inproceedings{zhangli_dgcn
@@ -25,3 +18,13 @@ author={Zhang, Li(*) and Li, Xiangtai(*) and Arnab, Anurag and Yang, Kuiyuan and
 booktitle={BMVC2019},
 }
 ```
+
+```
+@inproceedings{xiangtl_gald
+title={Global Aggregation then Local Distribution in Fully Convolutional Networks},
+author={Li, Xiangtai and Zhang, Li and You, Ansheng and Yang, Maoke and Yang, Kuiyuan and Tong, Yunhai},
+booktitle={BMVC2019},
+}
+```
+
+
